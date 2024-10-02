@@ -12,10 +12,12 @@ To run this notebook, you need to have the following libraries installed:
 
 torch
 transformers
+
 You can install them using pip:
 
 
 pip install torch transformers
+
 How It Works
 
 Importing Libraries: The notebook begins by importing necessary libraries and loading the BART model and tokenizer.
